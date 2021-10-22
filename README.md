@@ -1,4 +1,4 @@
-# Recipe List by <i>Rahat
+# Recipe List by <i>Rahat</i>
 
 This project shows a list of recipes fetched from API.
 
